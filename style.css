@@ -52,7 +52,7 @@
 #Display-area .answerScreen {
     
     text-align: right;
-    color: rgba(156, 156, 156, 0.87);
+    color: rgba(148, 148, 148, 0.87);
     height: 7px;
     line-height: 3;
     font-size: larger;
@@ -70,7 +70,7 @@
     outline: none;
     border: none;
     border-radius: 122px;
-    border-color: #51a6b1;
+    border-color: #5db6c2;
     color: 96471A;
     font-size: x-large;
 }
